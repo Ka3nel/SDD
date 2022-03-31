@@ -1,0 +1,18 @@
+﻿  Source.c
+C:\Users\stud\source\repos\s06_SDD\s06_SDD\Source.c(31,37): warning C4133: 'function': incompatible types - from 'const int *' to 'const char *'
+C:\Users\stud\source\repos\s06_SDD\s06_SDD\Source.c(32,31): warning C4133: 'function': incompatible types - from 'const int *' to 'const char *'
+C:\Users\stud\source\repos\s06_SDD\s06_SDD\Source.c(32,43): warning C4133: 'function': incompatible types - from 'const int *' to 'const char *'
+C:\Users\stud\source\repos\s06_SDD\s06_SDD\Source.c(173,48): warning C4133: 'function': incompatible types - from 'char [8]' to 'const int *'
+C:\Users\stud\source\repos\s06_SDD\s06_SDD\Source.c(174,48): warning C4133: 'function': incompatible types - from 'char [8]' to 'const int *'
+C:\Users\stud\source\repos\s06_SDD\s06_SDD\Source.c(175,53): warning C4133: 'function': incompatible types - from 'char [13]' to 'const int *'
+C:\Users\stud\source\repos\s06_SDD\s06_SDD\Source.c(177,56): warning C4133: 'function': incompatible types - from 'char [8]' to 'const int *'
+C:\Users\stud\source\repos\s06_SDD\s06_SDD\Source.c(178,56): warning C4133: 'function': incompatible types - from 'char [8]' to 'const int *'
+C:\Users\stud\source\repos\s06_SDD\s06_SDD\Source.c(179,52): warning C4133: 'function': incompatible types - from 'char [4]' to 'const int *'
+C:\Users\stud\source\repos\s06_SDD\s06_SDD\Source.c(190,47): warning C4133: 'function': incompatible types - from 'char [8]' to 'const int *'
+C:\Users\stud\source\repos\s06_SDD\s06_SDD\Source.c(191,47): warning C4133: 'function': incompatible types - from 'char [8]' to 'const int *'
+C:\Users\stud\source\repos\s06_SDD\s06_SDD\Source.c(192,52): warning C4133: 'function': incompatible types - from 'char [13]' to 'const int *'
+C:\Users\stud\source\repos\s06_SDD\s06_SDD\Source.c(194,56): warning C4133: 'function': incompatible types - from 'char [8]' to 'const int *'
+C:\Users\stud\source\repos\s06_SDD\s06_SDD\Source.c(195,56): warning C4133: 'function': incompatible types - from 'char [8]' to 'const int *'
+C:\Users\stud\source\repos\s06_SDD\s06_SDD\Source.c(196,52): warning C4133: 'function': incompatible types - from 'char [4]' to 'const int *'
+C:\Users\stud\source\repos\s06_SDD\s06_SDD\Source.c(209,56): warning C4133: 'function': incompatible types - from 'char [6]' to 'const int *'
+  s06_SDD.vcxproj -> C:\Users\stud\source\repos\s06_SDD\Debug\s06_SDD.exe
